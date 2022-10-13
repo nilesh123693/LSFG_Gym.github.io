@@ -1,0 +1,159 @@
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.menu a {
+    
+    margin: 5px;
+    padding: 5px;
+    /* font-weight: bold; */
+}
+.left img {
+    
+    size: 7px;
+    width: 100%;
+    margin-top: 100px;
+}
+.menu a {
+    margin: 5px;
+    padding: 0px;
+    font-size: 10px;
+}
+.right {
+    flex-basis: 60%;
+    max-width: 210px;
+    margin-top: 70px;
+}
+.btn {
+    margin-left: 40px;
+}
+nav {
+    flex-direction: column;
+}
+.icon img {
+    width: 50px;
+}
+.right h1 {
+    font-size: 30px;
+}
+.right p {
+    font-size: 15px;
+}
+
+.about-left-col h1 {
+    font-size: 30px;
+
+}
+
+.about-left-col p {
+    font-size: 10px;
+    text-align: justify;
+    margin: 8px 0px;
+}
+#about {
+    padding: 50px 0px;
+}
+
+.about-right-col img {
+    width: 70%;
+}
+.signup-right-col h2 {
+    font-size: 26px;
+    letter-spacing: 10px;
+    color: rgba(0, 0, 0, 0.3);
+    margin: 10px 0px;
+}
+.signup-right-col h1 {
+    font-size: 30px;
+}
+.c-btn {
+    margin: 30px 0px;
+}
+.services-info h1 {
+    font-size: 31px;
+}
+.services-info p {
+    font-size: 15px;
+}
+.services-box i {
+    font-size: 20px;
+}
+.services-box h2 {
+    font-size: 20px;
+}
+.services-box p {
+    font-size: 15px;
+}
+.services-row {
+    grid-gap: 1em;
+    display: flex;
+    flex-direction: column;
+}
+.signup-left-col img {
+    width: 100%;
+}
+#members {
+    padding: 50px;
+    background-size: 30% 7%;
+}
+.services-info h1 {
+    font-size: 29px;
+}
+.services-info p {
+    font-size: 9px;
+}
+.member-card {
+    width: 100%;
+}
+.member-card h2 {
+    font-size: 18 px;
+}
+header {
+    clip-path: polygon(0% 0%,100% 0%,100% 100%,80% 90%,0% 100%);
+}
+#signup {
+    clip-path: polygon(0% 0%,100% 0%,100% 100%,80% 90%,0% 100%);
+}
+#work {
+    clip-path: polygon(0% 0%,100% 0%,100% 100%,80% 97%,0% 100%);
+}
+.contact-row {
+    flex-direction: column;
+}
+.c_btn {
+    padding: 2px;
+    border-radius: 4px;
+    width: 51%;
+}
+.contact-right-col i {
+    font-size: 10px;
+}
+.contact-right-col h1 {
+    font-size: 15px;
+}
+.contact-right-col p {
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+.contact-right-col {
+    text-align: center;
+    margin-top: 20px;
+}
+#footer h1 {
+    font-size: 15px;
+}
+#footer p {
+    font-size: 10px;
+}
+#footer img {
+    width: 20%;
+}
+.form {
+    width: 100%;
+}
+.form input[type="text"] {
+    margin-bottom: 10px;
+    padding: 0px;
+ 
+}
